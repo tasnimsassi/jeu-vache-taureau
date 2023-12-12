@@ -1,0 +1,7 @@
+# Project exclude paths
+/VacheTaureaux-gateway/.gradle/
+/VacheTaureaux-gateway/build/
+/VacheTaureaux-gateway/build/classes/java/main/
+/VacheTaureaux-serveurRPC/.gradle/
+/VacheTaureaux-serveurRPC/build/
+/VacheTaureaux-serveurRPC/build/classes/java/main/

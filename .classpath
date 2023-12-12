@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="VacheTaureaux-client/src"/>
+	<classpathentry kind="src" path="VacheTaureaux-gateway/src/main/java"/>
+	<classpathentry kind="src" path="VacheTaureaux-serveurRMI/src"/>
+	<classpathentry kind="src" path="VacheTaureaux-serveurRPC/src/main/java"/>
+	<classpathentry kind="lib" path="VacheTaureaux-gateway/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="VacheTaureaux-serveurRPC/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="VacheTaureaux-client/out/production/VacheTaureaux-client"/>
+</classpath>
