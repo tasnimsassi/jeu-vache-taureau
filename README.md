@@ -1,4 +1,4 @@
-eu Vache-Taureau
+#jeu Vache-Taureau
 Ce projet propose une implémentation du jeu de logique "Vache-Taureau" utilisant les concepts de serveur-client et les communications RMI (Remote Method Invocation).
 
 Description
